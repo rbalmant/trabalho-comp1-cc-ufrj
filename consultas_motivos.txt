@@ -1,0 +1,8 @@
+ * 'sos' - emergencia
+ * 'e' - endocrinologia
+ * 'ort' - ortopedia
+ * 'd' - dermatologia
+ * 'c' - cardiologia
+ * 'odo' - odontologia
+ * 'oft' - oftalmologia
+ * 'onc' - oncologia

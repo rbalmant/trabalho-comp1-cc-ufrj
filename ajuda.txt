@@ -1,0 +1,8 @@
+Comandos disponiveis:
+	--> 'ajuda' - exibe este painel
+	--> 'limpar_tela'
+	--> 'sair' - termina a execucao do programa
+	--> 'mostrar_veterinarios' - mostra todos os veterinarios cadastrados
+	--> 'cadastrar_veterinario' - cadastra um novo veterinario
+	--> 'mostrar_clientes' - mostra todos os clientes cadastrados
+

@@ -1,0 +1,8 @@
+ * 'a' - ave
+ * 'g' - gato
+ * 'c' - cao
+ * 't' - tartaruga
+ * 'j' - jabuti
+ * 'h' - hamster
+ * 's' - silvestre
+

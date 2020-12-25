@@ -1,0 +1,9 @@
+
+Comandos disponiveis:
+	--> 'limpar_tela' - limpa a tela
+	--> 'ajuda' - exibe este painel
+	--> 'sair' - volta para a tela inicial
+	--> 'adicionar_animal' - adiciona animal
+	--> 'mostrar_animais' - mostra todos os animais deste cliente
+	--> 'marcar_consulta' - marca uma consulta
+	--> 'mostrar_consultas' - mostra todas as consultas deste cliente
